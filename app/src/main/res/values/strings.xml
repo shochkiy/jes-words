@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JesWords</string>
+    <string name="testActivityButton">TEST</string>
+    <string name="enterWordsTextView">Enter Words</string>
+    <string name="enterTranslateTextView">Enter Translate</string>
+    <string name="addWordsButton">Add words to base</string>
+    <string name="wordsTextView">Words</string>
+    <string name="nextStepButton">Next Step</string>
+    <string name="passTestButton">Pass Test</string>
+</resources>
